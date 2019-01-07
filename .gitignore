@@ -1,0 +1,9 @@
+
+*/mvnw
+*.cmd
+*.jar
+*.jar
+*.jar
+APIGateway/.mvn/wrapper/maven-wrapper.properties
+EurekhaServer/.mvn/wrapper/maven-wrapper.jar
+EurekhaServer/.mvn/wrapper/maven-wrapper.properties
